@@ -9,6 +9,9 @@ Overall, this model can differentiate cats and dogs quite well, however, there i
 
 Any suggestion for improvement is highly welcome!
 
+<hr>
+<hr>
+<br>
 And remember when someone said the following to you, show this image to them!
 ![Image](image.jpg)
 
