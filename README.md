@@ -5,16 +5,7 @@ This repository is a simple Convolutional Neural Network Model, used to classify
 
 The dataset used for this so called project is __[Kaggle](https://www.kaggle.com/tongpython/cat-and-dog)__.
 
-Overall, this model can differentiate cats and dogs quite well, however, there is still room for improvement as sometimes the model misclassify cats as dogs and vice versa.
-
 Any suggestion for improvement is highly welcome!
-
-<hr>
-<hr>
-<br>
-
-And remember when someone said the following to you, show this image to them!
-![Image](image.jpg)
 
 <hr>
 
